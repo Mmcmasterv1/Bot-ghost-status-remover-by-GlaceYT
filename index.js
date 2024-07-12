@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Avlonae Cafe Bot"];
+const statusMessages = ["Avlonae Cafe Database Bot"];
 
 
 let currentIndex = 0;
